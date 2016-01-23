@@ -7,13 +7,11 @@ Terminal Program
 
 **LinkedIn:** [Jayden Navarro](https://www.linkedin.com/in/jaydennavarro)
 
-**Twitter:** [@JDNdeveloper](https://twitter.com/JDNdeveloper) and [@JaydenNavarro](https://twitter.com/JaydenNavarro)
+**Twitter:** [@JaydenNavarro](https://twitter.com/JaydenNavarro)
 
-**Google+:** [JDN Developer](https://plus.google.com/u/0/+Jdndeveloper/posts) and [Jayden Navarro](https://plus.google.com/u/0/+JaydenNavarro/posts)
+**Google+:** [Jayden Navarro](https://plus.google.com/u/0/+JaydenNavarro/posts)
 
-**Facebook:** [JDN Developer](https://www.facebook.com/jdndeveloper)
-
-**Website:** [jdndeveloper.com](http://www.jdndeveloper.com/)
+**GitHub:** [JDNdeveloper](http://www.github.com/JDNdeveloper)
 
 ## Description:
 I wrote this program in 2012 after I just started programming. I wanted to test out my coding chops,
